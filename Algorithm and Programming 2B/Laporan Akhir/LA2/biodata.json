@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nabila",
+      "hobi": "Menonton film",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": 2,
+      "name": "Alawiyah",
+      "hobi": "Membaca cerita",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": 3,
+      "name": "Balindra",
+      "hobi": "Mendaki",
+      "alamat": "Lampung"
+    },
+    {
+      "id": 4,
+      "name": "Bara",
+      "hobi": "Kemping",
+      "alamat": "Lampung"
+    }
+  ]
+}
